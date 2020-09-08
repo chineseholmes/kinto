@@ -46,13 +46,6 @@
                 "domain": [
                     "geosite:tor"
                 ]
-            },
-            {
-                "type": "field",
-                "outboundTag": "blocked",
-                "domain": [
-                    "geosite:category-ads-all"
-                ]
             }
         ]
     }
